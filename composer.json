@@ -1,7 +1,7 @@
 {
-    "name": "knplabs/doctrine-behaviors",
+    "name": "slowhop/doctrine-behaviors",
     "type": "library",
-    "description": "Doctrine2 behavior traits",
+    "description": "Doctrine2 behavior traits - slowhop fork",
     "keywords": [
         "behaviors",
         "doctrine2",
